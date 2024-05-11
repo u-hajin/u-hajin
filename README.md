@@ -27,14 +27,14 @@
 <h3>☀️ Where to find me</h3>
 
 <a href="https://select-dev-from.tistory.com/" target="_blank">
-  <img align="left" alt="hajin's Tistory" width="28px" height="28px" src="https://github.com/u-hajin/u-hajin/assets/68963707/eff6fe42-bd60-42fe-a0bd-5312c0ff8bd7" />
+  <img align="left" alt="hajin's Tistory" width="28px" height="28px" src="https://github.com/u-hajin/u-hajin/assets/68963707/0b28fa83-9317-47ec-b508-8dd5b18ccfa1" />
+</a>
+<a href="https://velog.io/@redrawn" target="_blank">
+  <img align="left" alt="hajin's Velog" width="28px" height="28px" src="https://github.com/u-hajin/u-hajin/assets/68963707/9aace4dc-0f86-4088-bf7f-d20034995143" />
 </a>
 <a href="https://select-dev.tistory.com/" target="_blank">
   <img align="left" alt="hajin's Tistory" width="28px" height="28px" src="https://user-images.githubusercontent.com/68963707/184910066-93d3c158-9ca7-426d-a9c3-6eed6f54c62f.png" />
 </a>
 <a href="mailto:yoohajin.dev@gmail.com" target="_blank">
   <img align="left" alt="hajin's mail" width="31px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" />
-</a>
-<a href="https://velog.io/@redrawn" target="_blank">
-  <img align="left" alt="hajin's Velog" width="28px" height="28px" src="https://velog.velcdn.com/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png" />
 </a>
