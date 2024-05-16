@@ -2,8 +2,8 @@
 
 <h3>:book: About Me</h3>
 
-- Living in Seoul, Republic of Korea. 🏠
-- Studying Software Engineering at Konkuk Univ. ✏️ ( 2019.03 - )
+- Living in Seoul, Republic of Korea.
+- Studying Software Engineering at Konkuk Univ. ( 2019.03 - )
 
 <h3>⌨️ Things I code with</h3>
 <p>
@@ -22,9 +22,9 @@
 
 <h3>💻 Currently working on ...</h3>
 
-- [AI Posture Correction Web Service](https://github.com/hippo-zone/pose-fit/tree/develop)
+- 
 
-<h3>☀️ Where to find me</h3>
+<h3>🔍 Where to find me</h3>
 
 <a href="https://select-dev-from.tistory.com/" target="_blank">
   <img align="left" alt="hajin's Tistory" width="28px" height="28px" src="https://github.com/u-hajin/u-hajin/assets/68963707/0b28fa83-9317-47ec-b508-8dd5b18ccfa1" />
