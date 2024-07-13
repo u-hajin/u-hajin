@@ -22,7 +22,7 @@
 
 <h3>💻 Currently working on ...</h3>
 
-- 
+- [서울시 실시간 인구 데이터 파이프라인 구축](https://github.com/u-hajin/seoul-population-data-pipeline)
 
 <h3>🔍 Where to find me</h3>
 
