@@ -25,7 +25,7 @@
 - [서울시 실시간 인구 데이터 파이프라인 구축](https://github.com/u-hajin/seoul-population-data-pipeline)
 
 <h3>🔍 Where to find me</h3>
-
+<!--
 <a href="https://select-dev-from.tistory.com/" target="_blank">
   <img align="left" alt="hajin's Tistory" width="28px" height="28px" src="https://github.com/u-hajin/u-hajin/assets/68963707/0b28fa83-9317-47ec-b508-8dd5b18ccfa1" />
 </a>
@@ -35,6 +35,7 @@
 <a href="https://select-dev.tistory.com/" target="_blank">
   <img align="left" alt="hajin's Tistory" width="28px" height="28px" src="https://user-images.githubusercontent.com/68963707/184910066-93d3c158-9ca7-426d-a9c3-6eed6f54c62f.png" />
 </a>
+-->
 <a href="mailto:yoohajin.dev@gmail.com" target="_blank">
   <img align="left" alt="hajin's mail" width="31px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" />
 </a>
